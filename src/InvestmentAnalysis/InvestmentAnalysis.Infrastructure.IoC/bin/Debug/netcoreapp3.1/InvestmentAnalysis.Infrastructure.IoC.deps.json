@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InvestmentAnalysis.Infrastructure.IoC/1.0.0": {
+        "dependencies": {
+          "InvestmentAnalysis.Application": "1.0.0",
+          "InvestmentAnalysis.Domain": "1.0.0",
+          "InvestmentAnalysis.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "InvestmentAnalysis.Infrastructure.IoC.dll": {}
+        }
+      },
+      "InvestmentAnalysis.Application/1.0.0": {
+        "dependencies": {
+          "InvestmentAnalysis.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InvestmentAnalysis.Application.dll": {}
+        }
+      },
+      "InvestmentAnalysis.Domain/1.0.0": {
+        "runtime": {
+          "InvestmentAnalysis.Domain.dll": {}
+        }
+      },
+      "InvestmentAnalysis.Infra.Data/1.0.0": {
+        "dependencies": {
+          "InvestmentAnalysis.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InvestmentAnalysis.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestmentAnalysis.Infrastructure.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvestmentAnalysis.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvestmentAnalysis.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvestmentAnalysis.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

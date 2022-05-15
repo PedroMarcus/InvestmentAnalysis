@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InvestmentAnalysis.Infra.Data/1.0.0": {
+        "dependencies": {
+          "InvestmentAnalysis.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InvestmentAnalysis.Infra.Data.dll": {}
+        }
+      },
+      "InvestmentAnalysis.Domain/1.0.0": {
+        "runtime": {
+          "InvestmentAnalysis.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestmentAnalysis.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvestmentAnalysis.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

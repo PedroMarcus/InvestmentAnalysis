@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InvestmentAnalysis.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InvestmentAnalysis.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InvestmentAnalysis.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvestmentAnalysis.Application.dll": {}
+        }
+      },
+      "InvestmentAnalysis.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InvestmentAnalysis.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvestmentAnalysis.Domain.dll": {}
+        }
+      },
+      "InvestmentAnalysis.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InvestmentAnalysis.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InvestmentAnalysis.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvestmentAnalysis.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestmentAnalysis.Application/1.0.0": {
+      "type": "project",
+      "path": "../InvestmentAnalysis.Application/InvestmentAnalysis.Application.csproj",
+      "msbuildProject": "../InvestmentAnalysis.Application/InvestmentAnalysis.Application.csproj"
+    },
+    "InvestmentAnalysis.Domain/1.0.0": {
+      "type": "project",
+      "path": "../InvestmentAnalysis.Domain/InvestmentAnalysis.Domain.csproj",
+      "msbuildProject": "../InvestmentAnalysis.Domain/InvestmentAnalysis.Domain.csproj"
+    },
+    "InvestmentAnalysis.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../InvestmentAnalysis.Infra.Data/InvestmentAnalysis.Infra.Data.csproj",
+      "msbuildProject": "../InvestmentAnalysis.Infra.Data/InvestmentAnalysis.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "InvestmentAnalysis.Application >= 1.0.0",
+      "InvestmentAnalysis.Domain >= 1.0.0",
+      "InvestmentAnalysis.Infra.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pedro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Infrastructure.IoC\\InvestmentAnalysis.Infrastructure.IoC.csproj",
+      "projectName": "InvestmentAnalysis.Infrastructure.IoC",
+      "projectPath": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Infrastructure.IoC\\InvestmentAnalysis.Infrastructure.IoC.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Infrastructure.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://azure.sefaz.es.gov.br/SUAREC/_packaging/SEFAZ-Nuget/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Application\\InvestmentAnalysis.Application.csproj": {
+              "projectPath": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Application\\InvestmentAnalysis.Application.csproj"
+            },
+            "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Domain\\InvestmentAnalysis.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Domain\\InvestmentAnalysis.Domain.csproj"
+            },
+            "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Infra.Data\\InvestmentAnalysis.Infra.Data.csproj": {
+              "projectPath": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Infra.Data\\InvestmentAnalysis.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.deps.json
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Application.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Application.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.csproj.AssemblyReference.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.AssemblyInfo.cs
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.csproj.CopyComplete
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure.IoC\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.IoC.pdb

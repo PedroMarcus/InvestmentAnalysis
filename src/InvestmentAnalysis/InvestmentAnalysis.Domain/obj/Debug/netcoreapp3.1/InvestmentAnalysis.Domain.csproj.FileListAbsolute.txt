@@ -1,0 +1,10 @@
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.deps.json
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.csproj.AssemblyReference.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.AssemblyInfoInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.AssemblyInfo.cs
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Domain\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.pdb

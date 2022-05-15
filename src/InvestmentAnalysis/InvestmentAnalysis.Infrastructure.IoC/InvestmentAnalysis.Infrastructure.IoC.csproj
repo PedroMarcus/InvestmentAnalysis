@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InvestmentAnalysis.Application\InvestmentAnalysis.Application.csproj" />
+    <ProjectReference Include="..\InvestmentAnalysis.Domain\InvestmentAnalysis.Domain.csproj" />
+    <ProjectReference Include="..\InvestmentAnalysis.Infra.Data\InvestmentAnalysis.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

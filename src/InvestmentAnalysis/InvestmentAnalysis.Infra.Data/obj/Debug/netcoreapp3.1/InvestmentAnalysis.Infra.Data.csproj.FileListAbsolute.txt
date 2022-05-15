@@ -1,0 +1,13 @@
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.deps.json
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Domain.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.AssemblyInfo.cs
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.csproj.CopyComplete
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infra.Data\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infra.Data.pdb

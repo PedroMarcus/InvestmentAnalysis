@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoqjaY6mmlblpOnizl15Qc0C6v+p7uFFRCGYuWm1pACe5+ugBjmV25/J0uyoX6+zl8ceKjm5ufO2+9cosqC5jg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\InvestmentAnalysis\\src\\InvestmentAnalysis\\InvestmentAnalysis.Infrastructure\\InvestmentAnalysis.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\sonaranalyzer.csharp\\8.39.0.47922\\sonaranalyzer.csharp.8.39.0.47922.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InvestmentAnalysis.Infrastructure/1.0.0": {
+        "dependencies": {
+          "InvestmentAnalysis.Core": "1.0.0",
+          "SonarAnalyzer.CSharp": "8.39.0.47922"
+        },
+        "runtime": {
+          "InvestmentAnalysis.Infrastructure.dll": {}
+        }
+      },
+      "SonarAnalyzer.CSharp/8.39.0.47922": {},
+      "InvestmentAnalysis.Core/1.0.0": {
+        "runtime": {
+          "InvestmentAnalysis.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestmentAnalysis.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SonarAnalyzer.CSharp/8.39.0.47922": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h1n8Je/hh69dWDT9plGomHhvFh0FWPdVt99OUtiQGC3Q4CWh0/ztenfY3QsBVwM193ozH+luE+WWcrAZRaNMyg==",
+      "path": "sonaranalyzer.csharp/8.39.0.47922",
+      "hashPath": "sonaranalyzer.csharp.8.39.0.47922.nupkg.sha512"
+    },
+    "InvestmentAnalysis.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

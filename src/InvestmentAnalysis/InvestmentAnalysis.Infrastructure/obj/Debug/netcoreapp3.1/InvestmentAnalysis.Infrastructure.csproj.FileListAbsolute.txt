@@ -1,0 +1,13 @@
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.deps.json
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Core.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\bin\Debug\netcoreapp3.1\InvestmentAnalysis.Core.pdb
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.AssemblyInfo.cs
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.csproj.CopyComplete
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.dll
+C:\Projetos\InvestmentAnalysis\src\InvestmentAnalysis\InvestmentAnalysis.Infrastructure\obj\Debug\netcoreapp3.1\InvestmentAnalysis.Infrastructure.pdb
