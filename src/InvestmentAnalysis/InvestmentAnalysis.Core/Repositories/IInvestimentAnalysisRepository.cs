@@ -8,6 +8,6 @@ namespace InvestmentAnalysis.Core.Repositories
 {
     public interface IInvestimentAnalysisRepository 
     {
-        (decimal gross, decimal net) GetResultInvestmentByPeriod(decimal initialValue, decimal finalValue, int period); 
+        (decimal gross, decimal net) GetResultInvestmentByPeriod(decimal initialValue, int period); 
     }
 }

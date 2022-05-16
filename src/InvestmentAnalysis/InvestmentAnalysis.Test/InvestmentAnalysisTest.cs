@@ -16,7 +16,7 @@ namespace InvestmentAnalysis.Test
         [Fact]
         public void CalculateNotIsEqualZero()
         {
-            var result = _investimentAnalysisRepository.GetResultInvestmentByPeriod(10m, 10m, 2); 
+            var result = _investimentAnalysisRepository.GetResultInvestmentByPeriod(10m, 2); 
             
             Assert.NotEqual(0, result.gross);
             Assert.NotEqual(0, result.net);

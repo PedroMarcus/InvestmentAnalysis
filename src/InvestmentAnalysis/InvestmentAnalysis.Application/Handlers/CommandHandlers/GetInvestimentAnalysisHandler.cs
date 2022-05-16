@@ -19,7 +19,7 @@ namespace InvestmentAnalysis.Application.Handlers.CommandHandlers
 
         protected override GetInvestimentAnalysisResponse Handle(GetInvestimentAnalysisCommand request)
         {
-            var result = _repositoryAnalysisInvestment.GetResultInvestmentByPeriod(request.InitialValue, request.FinalValue, request.Period);
+            var result = _repositoryAnalysisInvestment.GetResultInvestmentByPeriod(request.InitialValue, request.Period);
 
 
             var response = new GetInvestimentAnalysisResponse();

@@ -8,7 +8,7 @@ namespace InvestmentAnalysis.Infrastructure.Repositories
 {
     public class InvestimentAnalysisRepository : IInvestimentAnalysisRepository
     {
-        public (decimal gross, decimal net) GetResultInvestmentByPeriod(decimal initialValue, decimal finalValue, int period)
+        public (decimal gross, decimal net) GetResultInvestmentByPeriod(decimal initialValue, int period)
         {
             return CalculateInvestment(initialValue, period);
         }
