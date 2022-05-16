@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61381430-1675-4186-962b-3406f40f78ef": {
+      "ProjectGuid": "61381430-1675-4186-962b-3406f40f78ef",
+      "DisplayName": "InvestmentAnalysis.Application",
+      "ColorIndex": 0
+    },
+    "540a65aa-99f0-492d-be6d-008202d88b5b": {
+      "ProjectGuid": "540a65aa-99f0-492d-be6d-008202d88b5b",
+      "DisplayName": "InvestmentAnalysis.Domain",
+      "ColorIndex": 1
+    },
+    "caf64062-c5c3-4527-b757-6e419dfabe38": {
+      "ProjectGuid": "caf64062-c5c3-4527-b757-6e419dfabe38",
+      "DisplayName": "InvestmentAnalysis.Infra.Data",
+      "ColorIndex": 2
+    },
+    "5c8b791c-0427-4229-956a-ac6c52d884f0": {
+      "ProjectGuid": "5c8b791c-0427-4229-956a-ac6c52d884f0",
+      "DisplayName": "InvestmentAnalysis.Infrastructure.IoC",
+      "ColorIndex": 3
+    },
+    "0d0d34b3-9489-42fa-b3b1-8c0e758bcaa3": {
+      "ProjectGuid": "0d0d34b3-9489-42fa-b3b1-8c0e758bcaa3",
+      "DisplayName": "InvestmentAnalysis.API",
+      "ColorIndex": 4
+    },
+    "97e9c8fa-880b-40dc-bb8d-1e0e5ffb4803": {
+      "ProjectGuid": "97e9c8fa-880b-40dc-bb8d-1e0e5ffb4803",
+      "DisplayName": "InvestmentAnalysis.Core",
+      "ColorIndex": 5
+    },
+    "c35fc293-66b2-4d57-8dd2-bfba6fe4e6f4": {
+      "ProjectGuid": "c35fc293-66b2-4d57-8dd2-bfba6fe4e6f4",
+      "DisplayName": "InvestmentAnalysis.Infrastructure",
+      "ColorIndex": 6
+    },
+    "79afe91a-c491-46d3-b171-e07679ed023e": {
+      "ProjectGuid": "79afe91a-c491-46d3-b171-e07679ed023e",
+      "DisplayName": "InvestmentAnalysis.Test",
+      "ColorIndex": 7
+    },
+    "4080aa89-058a-4a62-a225-e178d11b6adb": {
+      "ProjectGuid": "4080aa89-058a-4a62-a225-e178d11b6adb",
+      "DisplayName": "InvestmentAnalysis.Frontend",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

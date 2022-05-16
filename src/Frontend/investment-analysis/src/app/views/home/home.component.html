@@ -1,6 +1,6 @@
 <mat-toolbar color="primary">
     <mat-toolbar-row>
-      <span>Investment Analysis For Period</span>
+      <span>Análise de investimento por período</span>
       <span class="example-spacer"></span>
       <mat-icon class="example-icon" aria-hidden="false" aria-label="Example user verified icon">verified_user</mat-icon>    
     </mat-toolbar-row>
@@ -8,19 +8,21 @@
 <br/>
 
 <form class="example-form">
+
+  <div fxLayout="row" style="margin-left: 10%;"   fxLayoutAlign="center center" >
     <mat-form-field class="example-full-width" appearance="fill">
       <mat-label>Valor inicial de investimento*</mat-label>
-      <input matInput placeholder="R$ 1.000,00" value="0,00">
+      <input matInput placeholder="R$ 1.000,00" value="0" id="initialValue" name="initialValue" >
     </mat-form-field>
-
   <br/>
 
     <mat-form-field class="example-full-width" appearance="fill">
         <mat-label>Período em meses*</mat-label>
-        <input matInput placeholder="24" value="">
+        <input matInput placeholder="24" value="0" id="period" name="period">
     </mat-form-field>
 
    <br/>
 
-   <button mat-raised-button>Consult Investment</button>
-  </form>
+   <button style="margin-left: 60%;" mat-raised-button (click)="getAnalysis()">Consultar investimento</button>
+  </div>
+</form>

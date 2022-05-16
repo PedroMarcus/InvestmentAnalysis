@@ -39,6 +39,16 @@ namespace InvestmentAnalysis.API
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Investment Analysis", Version = "v1" });
             });
 
+            services.AddCors(options => 
+            {
+                options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                                .SetIsOriginAllowed(origin => true)); 
+            }); 
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
             services.AddAutoMapper(typeof(Startup));
             services.AddMediatR(typeof(GetInvestimentAnalysisHandler).GetTypeInfo().Assembly);
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
@@ -65,6 +75,8 @@ namespace InvestmentAnalysis.API
             {
                 endpoints.MapControllers();
             });
+
+            app.UseCors("CorsPolicy");
 
             app.UseSwagger();
 

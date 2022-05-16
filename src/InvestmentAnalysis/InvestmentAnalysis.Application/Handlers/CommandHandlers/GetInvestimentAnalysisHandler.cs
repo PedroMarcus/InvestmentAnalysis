@@ -23,8 +23,8 @@ namespace InvestmentAnalysis.Application.Handlers.CommandHandlers
 
 
             var response = new GetInvestimentAnalysisResponse();
-            response.NetProfitability = result.net;
-            response.GrossProfitability = result.gross;
+            response.NetProfitability = result.net.ToString("C");
+            response.GrossProfitability = result.gross.ToString("C");
 
             return response; 
         }

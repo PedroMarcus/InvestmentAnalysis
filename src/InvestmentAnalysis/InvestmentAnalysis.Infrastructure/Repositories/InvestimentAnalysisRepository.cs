@@ -19,8 +19,8 @@ namespace InvestmentAnalysis.Infrastructure.Repositories
             decimal tb = 108;
             decimal cdi = 0.9m;
 
-            decimal currentValueInvestment = initialValue;
-            decimal yield = currentValueInvestment;
+            decimal currentValueInvestment = 0;
+            decimal profit = initialValue;
             #endregion
 
             decimal grossValue = 0;
@@ -29,12 +29,12 @@ namespace InvestmentAnalysis.Infrastructure.Repositories
 
             for (var month = 0; month < period; month++)
             {
-                currentValueInvestment = yield * (1 + (cdi * tb));
+                currentValueInvestment = profit * (1 + (cdi * tb));
 
                 if (month == 0)
-                    yield = (currentValueInvestment - initialValue);
+                    profit = (currentValueInvestment - initialValue);
                 else
-                    yield = (lastMonth - currentValueInvestment); 
+                    profit = (lastMonth - currentValueInvestment); 
 
 
                 lastMonth = currentValueInvestment;
